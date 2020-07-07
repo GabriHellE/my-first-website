@@ -49,10 +49,6 @@ margin-left: 10px;
 .media,
 .media-center {
   height: 200px;
-  weight: 128px;
-}
-is.rounded {
-  padding-top: 0;
 }
 .media .media {
     border-top: 0;
